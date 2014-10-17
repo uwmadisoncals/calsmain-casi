@@ -8,6 +8,4 @@ Template:       calsmain2013
 Version:        0.1.0
 */
 
-@import url("../calsmain2013/master.css");
-
 @import url("dist/styles/minified/master.min.css");
