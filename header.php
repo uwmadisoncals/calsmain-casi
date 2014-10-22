@@ -367,7 +367,7 @@ $pages = get_pages();
 				<img id="background" alt="background" src="" />
 				<div id="cholder">
 								    </div>
-				<script src="<?php echo get_template_directory_uri(); ?>/js/rainyday.min.js"></script>
+				<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/rainyday.min.js"></script>
 				<script>
 
 				var isMobile = {
