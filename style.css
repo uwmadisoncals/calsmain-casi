@@ -51,3 +51,7 @@ font-size:14px;
 body.custom-background {
     background-color: #E8E6D9;
 }
+
+input#s.field{
+	height:40px;
+}
